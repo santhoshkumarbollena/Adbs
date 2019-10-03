@@ -10,3 +10,8 @@
 
 ## Distributed Transaction
 - if a site access multiple sites with multiple independent queries.
+
+### Fragmentation
+1. Horizontal fragmentaion
+1. Vertical fragmentation
+1. mixed fragmentation
